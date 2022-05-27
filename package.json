@@ -1,0 +1,24 @@
+{
+  "name": "happe-frontend",
+  "version": "1.0.0",
+  "description": "frontend template using lit to test ideas and make notes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx parcel src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaronmichaelhappe/happe-frontend.git"
+  },
+  "author": "aaron michael happe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaronmichaelhappe/happe-frontend/issues"
+  },
+  "homepage": "https://github.com/aaronmichaelhappe/happe-frontend#readme",
+  "dependencies": {
+    "lit": "^2.2.5",
+    "parcel": "^2.6.0"
+  }
+}
